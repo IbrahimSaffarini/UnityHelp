@@ -241,7 +241,7 @@ Unity Help is a mobile application designed to enhance disaster management and r
 
 ### Running the Project
 
-#### 1- Start the mobile emulator or connect a phone to your computer
+#### 1- Start the mobile emulator or connect a phone to your computer.
 
 #### 2- Run the following commands in the terminal:
 
