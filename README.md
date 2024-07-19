@@ -183,9 +183,10 @@ Unity Help is a mobile application designed to enhance disaster management and r
 
 #### 2- Open the Project in the text editor or IDE of your choice.
 
-#### 3- Run the following command in the terminal to configure FlutterFire for both iOS and Android:
+#### 3- Run the following commands in the terminal to configure FlutterFire for both iOS and Android:
 
 ```
+  firebase login
   flutterfire configure
 ```
 *Note: Follow the setup instructions provided by FlutterFire. Ensure that you configure the project for both iOS and Android platforms to be able to run on both platforms.*
@@ -240,7 +241,9 @@ Unity Help is a mobile application designed to enhance disaster management and r
 
 ### Running the Project
 
-#### Run the following commands in the terminal:
+#### 1- Start the mobile emulator or connect a phone to your computer
+
+#### 2- Run the following commands in the terminal:
 
 ```
   flutter clean
